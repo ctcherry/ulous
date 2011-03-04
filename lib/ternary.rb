@@ -6,7 +6,11 @@ class Ternary
   end
   
   def call(env)
-    @upstreams.each { |u| u.call(env) }
+    if true
+      @upstream1.call(env)
+    else
+      @upstream2.call(env)
+    end
   end
   
 end
