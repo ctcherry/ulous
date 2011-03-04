@@ -1,7 +1,5 @@
 class Ternary
   
-  Ternary
-  
   def initialize(upstream1, upstream2)
     @upstream1 = upstream1
     @upstream2 = upstream2
