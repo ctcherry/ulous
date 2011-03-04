@@ -1,0 +1,6 @@
+2011/03/03 16:41:31 [error] 22450#0: *4 "/Users/ctcherry/Projects/ulous/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost.com:3000"
+2011/03/03 16:41:31 [error] 22450#0: *4 open() "/Users/ctcherry/Projects/ulous/public/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost.com:3000"
+2011/03/03 16:41:33 [error] 22450#0: *4 "/Users/ctcherry/Projects/ulous/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost.com:3000"
+2011/03/03 16:41:33 [error] 22450#0: *4 open() "/Users/ctcherry/Projects/ulous/public/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost.com:3000"
+2011/03/03 16:41:36 [error] 22450#0: *4 "/Users/ctcherry/Projects/ulous/public/index.html" is not found (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET / HTTP/1.1", host: "localhost.com:3000"
+2011/03/03 16:41:36 [error] 22450#0: *4 open() "/Users/ctcherry/Projects/ulous/public/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", host: "localhost.com:3000"
